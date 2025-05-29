@@ -1,7 +1,7 @@
 # Amazon Clone 🌐
 
-This is a basic **Amazon Clone** built using **HTML** and **CSS**. The project is designed to replicate the front-end look and feel of Amazon's homepage, helping improve web design skills using only core web technologies.
-
+This is a **Amazon Clone** built using **HTML** and **CSS**. The project is designed to replicate the front-end look and feel of Amazon's homepage, helping improve web design skills using only core web technologies.
+Live Link:[file:///C:/Users/boyar/OneDrive/Desktop/JavaScript/FrontEnd/Amazon%20Clone/index.html]
 ## 🚀 Features
 
 - Responsive Header with Amazon logo, search bar, and cart icon
